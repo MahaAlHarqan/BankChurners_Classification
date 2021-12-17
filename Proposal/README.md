@@ -53,6 +53,18 @@ This data has *10127 rows and 23 columns.*, This dataset can be found at [Kaggle
 - Does `Customer_Age` influnce the `Marital_Statu?
 - Which income category can be types with card category?
 
+
+## Algorithms
+- K-Nearest Neighbor
+- Logistic Regression
+- Decision Tree 
+- Random Forest 
+- Extreme Gradient Boost
+- Light Gradient Boost
+- Stacking
+
+
+
 ## Authors:
 - [@msealadwani](https://github.com/msealadwani)
 - [@Yazeed-11](https://github.com/Yazeed-11)
