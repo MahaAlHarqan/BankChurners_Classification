@@ -36,7 +36,14 @@ This data has *10127 rows and 23 columns.*, This dataset can be found at [Kaggle
 
 
 ## Tools
-There are tools that will be used to achieve the goal of this study, such as: pandas, numpy, matplotlib for discovering the data, The work will be done through Jupyter notebook.
+- Jupyter
+- Python
+- Pandas
+- Numpy
+- Seaborn
+- Scikit learn
+- Zoom
+
 
 
 ## Questions that needs to be answered:
