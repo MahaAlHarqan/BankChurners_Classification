@@ -46,12 +46,13 @@ This data has *10127 rows and 23 columns.*, This dataset can be found at [Kaggle
 
 
 
+
 ## Questions that needs to be answered:
 
 - What is the most Income Category based on Attrition Flag?
 - Is the Education Level affect on the Income Category?
-- Does `Customer_Age` influnce the `Marital_Statu?
-- Which income category can be types with card category?
+- Does `Customer_Age` influnce the `Marital_Status`?
+- Which card category has been used the most?
 
 
 ## Algorithms
